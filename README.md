@@ -1,1 +1,2 @@
 # nachalo
+prikol'naya xernya
